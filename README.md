@@ -1,9 +1,10 @@
 <h1 align="center">Hello this is sevenv1</h1>
 <h3 align="center">A learning web/software developer.</h3>
+<h3 align="center">99.9% of my projects are open sourced, dont ask me for the source code unless your ready to pay 🤑!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sevenv1&label=Profile%20views&color=0e75b6&style=flat" alt="sevenv1" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Where to Reach Me:</h3>
 <p align="left">
 <a href="https://twitter.com/itsallfederal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsallfederal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/notsevenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="notsevenn" height="30" width="40" /></a>
