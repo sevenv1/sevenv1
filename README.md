@@ -16,3 +16,4 @@
 
 <h3 align="left">My Current Projects:</h3>
 <h4 align="left">Skyline (An Advanced discord tool)</h4>
+![alt text](https://github.com/sevenv1/sevenv1/blob/[branch]/image.jpg?raw=true)
