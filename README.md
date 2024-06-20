@@ -17,4 +17,4 @@
 <h3 align="left">My Current Projects:</h3>
 <h4 align="left">Skyline (An Advanced discord tool), (the discord link is the discord icon in this readme!)</h4>
 <img src="https://github.com/sevenv1/sevenv1/blob/c0dde90e38b759659568efc1759fa3217c31f29f/skyline.png?raw=true" alt="Skyline">
-<h4 align="left">[undefined name] (A Bio Website, completely in testing and beta, I dont even know a domain for it yet...)</h4>
+<h4 align="left">[https://deadly.wtf] (A Bio Website, in testing and beta...)</h4>
