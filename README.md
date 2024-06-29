@@ -1,6 +1,6 @@
 <h1 align="center">Hello this is sevenv1</h1>
 <h3 align="center">A learning web/software developer.</h3>
-<h3 align="center">99.9% of my projects are open sourced, dont ask me for the source code unless your ready to pay 🤑!</h3>
+<h3 align="center">99.9% of my projects are not open sourced, dont ask me for the source code unless your ready to pay 🤑!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sevenv1&label=Profile%20views&color=0e75b6&style=flat" alt="sevenv1" /> </p>
 
