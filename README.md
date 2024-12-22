@@ -32,4 +32,6 @@ print(json.dumps(sevenv1.socials(), indent=4))
   <img src="https://komarev.com/ghpvc/?username=sevenv1&color=lightgrey" alt="Profile Views"/>
   <img src="https://komarev.com/ghpvc/?username=sevenv1&color=lightgrey" alt="Profile Views"/>
   <img src="https://komarev.com/ghpvc/?username=sevenv1&color=lightgrey" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sevenv1&color=lightgrey" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sevenv1&color=lightgrey" alt="Profile Views"/>
 </div>
