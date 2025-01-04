@@ -20,7 +20,7 @@ class sevenv1:
             'Youtube': 'https://www.youtube.com/@notsevenn',
             'Discord': 'https://discord.com/users/741483338614964404',
             'Current Project': 'https://usestar.xyz/',
-            'Universe (Discord Tool)': 'https://discord.gg/WGvRp9equc'
+            'Universe (Discord Tools)': 'https://discord.gg/WGvRp9equc'
         }
 
 print(json.dumps(sevenv1.info(), indent=4))
