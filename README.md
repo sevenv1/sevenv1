@@ -19,8 +19,7 @@ class sevenv1:
             'GitHub': 'https://github.com/sevenv1',
             'Youtube': 'https://www.youtube.com/@notsevenn',
             'Discord': 'https://discord.com/users/741483338614964404',
-            'Current Project': 'https://usestar.xyz/',
-            'Universe (Discord Tools)': 'https://discord.gg/WGvRp9equc'
+            'Current Project': 'https://buywebsites.store/'
         }
 
 print(json.dumps(sevenv1.info(), indent=4))
