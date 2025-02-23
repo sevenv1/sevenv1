@@ -26,11 +26,11 @@ print(json.dumps(sevenv1.info(), indent=4))
 print(json.dumps(sevenv1.socials(), indent=4))
 ```
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sevenv1&color=lightgrey" alt="Profile Views"/>
-  <img src="https://komarev.com/ghpvc/?username=sevenv1&color=lightgrey" alt="Profile Views"/>
-  <img src="https://komarev.com/ghpvc/?username=sevenv1&color=lightgrey" alt="Profile Views"/>
-  <img src="https://komarev.com/ghpvc/?username=sevenv1&color=lightgrey" alt="Profile Views"/>
-  <img src="https://komarev.com/ghpvc/?username=sevenv1&color=lightgrey" alt="Profile Views"/>
-  <img src="https://komarev.com/ghpvc/?username=sevenv1&color=lightgrey" alt="Profile Views"/>
-  <img src="https://komarev.com/ghpvc/?username=sevenv1&color=lightgrey" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Profile%20views-1,013,201,019-lightgrey" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Profile%20views-1,013,201,019-lightgrey" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Profile%20views-1,013,201,019-lightgrey" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Profile%20views-1,013,201,019-lightgrey" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Profile%20views-1,013,201,019-lightgrey" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Profile%20views-1,013,201,019-lightgrey" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Profile%20views-1,013,201,019-lightgrey" alt="Profile Views"/>
 </div>
