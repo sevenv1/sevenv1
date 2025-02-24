@@ -9,7 +9,7 @@ class sevenv1:
     @staticmethod
     def info():
         return {
-            'Real Name': 'Sean Combs',
+            'Real Name': 'Lebron James',
             'Age': datetime.now().year - 2008
         }
 
