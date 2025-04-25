@@ -18,7 +18,7 @@ class sevenv1:
         return {
             'GitHub': 'https://github.com/sevenv1',
             'Youtube': 'https://www.youtube.com/@sevenv1',
-            'Discord': 'https://discord.com/users/741483338614964404',
+            'Discord': 'https://discord.com/users/201043648664698881',
             'Current Project': 'https://unfair.solutions/'
         }
 
