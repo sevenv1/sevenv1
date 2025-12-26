@@ -2,4 +2,4 @@
 
 [![SKILLS/LANGUAGES](https://skillicons.dev/icons?i=js,html,css,ts,py,lua,php)](https://skillicons.dev)
 
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=sevenv1&color=FF0000&style=for-the-badge)
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=sevenv1&color=FFFFFF&style=for-the-badge)
